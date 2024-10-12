@@ -10,8 +10,10 @@ import UIKit
 
 enum Unwrap {
     enum ActivityType {
-        case home
+//        case home
+//        case learn
         case learn
+        case home
         case practice
         case challenges
         case news
