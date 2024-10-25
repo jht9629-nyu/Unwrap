@@ -12,6 +12,10 @@
 // Unwrap/Reusables/Themes
 //        let scaledSize = metrics.scaledValue(for: 140)
 
+// Remove iCloud Capabilities
+
+// Remove Sticker 
+
 # -
 <p align="center">
     <img src="https://www.hackingwithswift.com/files/unwrap/logo.png" alt="Unwrap logo" width="614" maxHeight="171" />
