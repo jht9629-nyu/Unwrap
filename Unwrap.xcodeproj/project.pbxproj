@@ -1243,6 +1243,7 @@
 		51FE139520E25F1100F29889 /* protocol-extensions.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "protocol-extensions.mp4"; sourceTree = "<group>"; };
 		51FE151D20E2814E00F29889 /* StudyReview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyReview.swift; sourceTree = "<group>"; };
 		A9476511228DF2E7005CC249 /* DynamicHeightHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicHeightHeaderView.swift; sourceTree = "<group>"; };
+		AB002E5A2CCB4503000EED02 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B93AEC4A2273DB68005A50DF /* PracticeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeTableViewCell.swift; sourceTree = "<group>"; };
 		B93AEC4C2273DE70005A50DF /* ChallengeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeTableViewCell.swift; sourceTree = "<group>"; };
 		B93AEC4E2273DF03005A50DF /* PreviousChallengeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviousChallengeTableViewCell.swift; sourceTree = "<group>"; };
@@ -1628,6 +1629,7 @@
 		51CC13562065607C00F37A67 = {
 			isa = PBXGroup;
 			children = (
+				AB002E5A2CCB4503000EED02 /* README.md */,
 				51CC13612065607C00F37A67 /* Unwrap */,
 				51CC13762065607F00F37A67 /* UnwrapTests */,
 				5192DDCA2273E05E0081C6DE /* Stickers */,
