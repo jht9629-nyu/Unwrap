@@ -1,6 +1,9 @@
 # JHT Changes
 
-// !!@ reset store attempt
+// !!@ attempt to locate preferencs
+/Users/jht2/Library/Containers/637EFDA4-8194-47E1-97C9-FB500806EA0F/Data/Library/Saved%20Application%20State/com.jht1900.unwrapswift.savedState/
+
+// !!@ reset store 
 
 // !!@ make learn first tab
 // viewControllers = [learn

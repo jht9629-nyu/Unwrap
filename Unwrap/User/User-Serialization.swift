@@ -25,7 +25,7 @@ extension User {
             keyName = liveKeyName
         }
 
-//        return nil;  !!@ reset store attempt
+//        return nil;  !!@ reset store
         
         
         let defaults = UserDefaults.standard
