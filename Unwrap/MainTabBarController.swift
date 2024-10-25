@@ -20,6 +20,7 @@ class MainTabBarController: UITabBarController, Storyboarded {
         super.viewDidLoad()
 
 //        viewControllers = [home.navigationController, learn.splitViewController, practice.splitViewController, challenges.splitViewController, news.splitViewController]
+        // !!@ make learn first tab
         viewControllers = [learn.splitViewController,home.navigationController,  practice.splitViewController, challenges.splitViewController, news.splitViewController]
     }
 

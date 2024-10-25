@@ -1,4 +1,15 @@
+# JHT Changes
 
+// !!@ reset store attempt
+
+// !!@ make learn first tab
+// viewControllers = [learn
+
+// !!@ Increase font size in styleContents Dark/LightTheme.css
+// Unwrap/Reusables/Themes
+//        let scaledSize = metrics.scaledValue(for: 140)
+
+# -
 <p align="center">
     <img src="https://www.hackingwithswift.com/files/unwrap/logo.png" alt="Unwrap logo" width="614" maxHeight="171" />
 </p>

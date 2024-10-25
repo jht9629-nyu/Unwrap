@@ -25,6 +25,9 @@ extension User {
             keyName = liveKeyName
         }
 
+//        return nil;  !!@ reset store attempt
+        
+        
         let defaults = UserDefaults.standard
         if let data = defaults.data(forKey: keyName) {
             let decoder = JSONDecoder()

@@ -10,6 +10,7 @@ import UIKit
 
 enum Unwrap {
     enum ActivityType {
+        // !!@ make learn first tab
 //        case home
 //        case learn
         case learn
